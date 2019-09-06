@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Androidx</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_success">Login Success</string>
+    <string name="login_failed">Invalid email or password</string>
+    <string name="rememberpassword">RememberPassword</string>
+</resources>
